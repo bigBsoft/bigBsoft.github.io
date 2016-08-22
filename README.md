@@ -1,2 +1,0 @@
-# bigBsoft
-bigBsoft Home Page
