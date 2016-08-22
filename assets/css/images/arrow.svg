@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="375" height="275" viewBox="0 0 375 275">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 4px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="hexagon" class="cls-1" d="M216.159,117.487l-57.746-.247L129.754,67.107l29.087-49.885,57.745,0.247L245.245,67.6Z"/>
+  <path id="hexagon_copy" data-name="hexagon copy" class="cls-1" d="M131.159,237.487l-57.746-.247L44.754,187.107l29.087-49.885,57.745,0.247L160.245,187.6Z"/>
+  <path id="hexagon_copy_2" data-name="hexagon copy 2" class="cls-1" d="M303.159,237.487l-57.746-.247-28.659-50.133,29.087-49.885,57.745,0.247L332.245,187.6Z"/>
+</svg>
